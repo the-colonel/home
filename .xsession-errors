@@ -1,0 +1,39 @@
+/etc/mdm/Xsession: Beginning session setup...
+localuser:hab being added to access control list
+Script for cjkv started at run_im.
+Script for default started at run_im.
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Script for cjkv started at run_im.
+Script for default started at run_im.
+GNOME_KEYRING_CONTROL=/run/user/hab/keyring-9e1k44
+GNOME_KEYRING_CONTROL=/run/user/hab/keyring-9e1k44
+GNOME_KEYRING_CONTROL=/run/user/hab/keyring-9e1k44
+GPG_AGENT_INFO=/run/user/hab/keyring-9e1k44/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/hab/keyring-9e1k44
+GPG_AGENT_INFO=/run/user/hab/keyring-9e1k44/gpg:0:1
+SSH_AUTH_SOCK=/run/user/hab/keyring-9e1k44/ssh
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+access control disabled, clients can connect from any host
+** Message: applet now removed from the notification area
+      JS LOG: About to start Cinnamon
+** Message: using fallback from indicator to GtkStatusIcon
+
+** (nemo:3664): WARNING **: Can not get _NET_WORKAREA
+
+** (nemo:3664): WARNING **: Can not determine workarea, guessing at layout
+Window manager warning: Log level 16: Unable to register authentication agent: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: An authentication agent already exists for the given subject
+Window manager warning: Log level 16: Error registering polkit authentication agent: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: An authentication agent already exists for the given subject (polkit-error-quark 0)
+      JS LOG: Cinnamon started at Tue Apr 01 2014 14:59:35 GMT-0500 (CDT)
+      JS LOG: network applet: Cannot find connection for active (or connection cannot be read)
+** Message: applet now embedded in the notification area
+Window manager warning: Log level 16: STACK_OP_ADD: window 0x2800001 already in stack
+Window manager warning: Log level 16: STACK_OP_ADD: window 0x2800001 already in stack
+failed to create drawable
+      JS LOG: network applet: Found connection for active
