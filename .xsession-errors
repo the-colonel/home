@@ -37,3 +37,6 @@ Window manager warning: Log level 16: STACK_OP_ADD: window 0x2800001 already in 
 Window manager warning: Log level 16: STACK_OP_ADD: window 0x2800001 already in stack
 failed to create drawable
       JS LOG: network applet: Found connection for active
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x28a70a0' has no handler with id `14066'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x297fa80' has no handler with id `14260'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x238e0a0' has no handler with id `14365'
