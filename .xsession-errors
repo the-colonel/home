@@ -40,3 +40,7 @@ failed to create drawable
 Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x28a70a0' has no handler with id `14066'
 Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x297fa80' has no handler with id `14260'
 Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x238e0a0' has no handler with id `14365'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x24f9940' has no handler with id `14543'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x262bd40' has no handler with id `14646'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2531e80' has no handler with id `14833'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x24cd4a0' has no handler with id `14950'

@@ -1,2 +1,4 @@
 [user]
 	email = colonel.haberdasher@gmail.com
+[push]
+	default = simple
