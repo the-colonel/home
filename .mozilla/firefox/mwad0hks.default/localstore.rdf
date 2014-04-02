@@ -10,9 +10,9 @@
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#PersonalToolbar"
                    collapsed="false" />
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
-                   screenX="0"
                    screenY="0"
-                   sizemode="normal"
                    width="1424"
-                   height="831" />
+                   height="831"
+                   screenX="-127"
+                   sizemode="maximized" />
 </RDF:RDF>
