@@ -44,3 +44,173 @@ Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsi
 Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x262bd40' has no handler with id `14646'
 Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2531e80' has no handler with id `14833'
 Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x24cd4a0' has no handler with id `14950'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x262be30' has no handler with id `15128'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2efb4a0' has no handler with id `15236'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2efb400' has no handler with id `15431'
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+[1396382372,000,xklavier.c:xkl_engine_start_listen/] 	The backend does not require manual layout management - but it is provided by the application
+=== Updating for primary Configuration ===
+  Clone: false
+  Output: Unknown attached to Virtual1
+     status: on
+     width: 1280
+     height: 720
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to Virtual2
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual3
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual4
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual5
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual6
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual7
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual8
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2847b70' has no handler with id `15526'
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_move_resize: assertion `!window->override_redirect' failed
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(gnome-settings-daemon:3607): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x3043320' has no handler with id `15697'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2891630' has no handler with id `15938'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x297fa30' has no handler with id `16036'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2a35630' has no handler with id `16151'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x29ae9e0' has no handler with id `16319'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x30432d0' has no handler with id `16434'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x29c18f0' has no handler with id `16605'
+Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x29fd320' has no handler with id `16723'
