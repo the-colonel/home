@@ -1,14 +1,6 @@
 <?xml version="1.0"?>
 <RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
          xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-title"
-                   value="" />
-  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
-                   sidebarcommand=""
-                   width=""
-                   src="" />
-  <RDF:Description RDF:about="chrome://browser/content/browser.xul#PersonalToolbar"
-                   collapsed="false" />
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
                    width="1080"
                    screenX="0"
@@ -21,4 +13,8 @@
     <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-box"/>
     <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
   </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#PersonalToolbar"
+                   collapsed="false" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-title"
+                   value="" />
 </RDF:RDF>
