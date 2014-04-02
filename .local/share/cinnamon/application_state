@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="gnome-terminal.desktop" open-window-count="1" score="10172" last-seen="1396455751"/>
+    <application id="gnome-terminal.desktop" open-window-count="1" score="10240" last-seen="1396456413"/>
     <application id="mintWelcome.desktop" open-window-count="0" score="0" last-seen="1396382384"/>
     <application id="gedit.desktop" open-window-count="0" score="0" last-seen="1396382715"/>
-    <application id="firefox.desktop" open-window-count="1" score="284" last-seen="1396455820"/>
+    <application id="firefox.desktop" open-window-count="1" score="300" last-seen="1396456243"/>
   </context>
 </application-state>
