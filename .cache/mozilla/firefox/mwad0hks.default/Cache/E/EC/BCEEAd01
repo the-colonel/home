@@ -377,9 +377,9 @@
               </ul>
             </div>
             <div class="col-sm-3 col-md-3">
-              <h3>Documentation</h3>
+              <h3>Support</h3>
               <ul class="list-unstyled">
-                <li><a href="#">Product Help</a></li>
+                <li><a href="http://translate.google.com/translate?sl=en&tl=fr&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.canadastate.ca%2F&act=url">French version</a></li>
                 <li><a href="#">Developer API</a></li>
                 <li><a href="#">Product Markdown</a></li>             
               </ul>
