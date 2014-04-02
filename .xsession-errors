@@ -214,3 +214,4 @@ Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsi
 Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x30432d0' has no handler with id `16434'
 Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x29c18f0' has no handler with id `16605'
 Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x29fd320' has no handler with id `16723'
+      JS LOG: pushModal: invocation of begin_modal failed
