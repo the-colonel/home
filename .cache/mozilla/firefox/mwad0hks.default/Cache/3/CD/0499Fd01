@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<searchresults total_results="8">
+                    <addon id="8884">
+  <name>Spanish (Chile) Language pack</name>
+  <type id="5">Language Pack (Application)</type>
+  <guid>langpack-es-CL@firefox.mozilla.org</guid>
+  <slug>spanish-chile-language-pack</slug>
+  <version>27.0.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="55008">
+      <name>Emilio Sepulveda</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/emilio-sepulveda/?src=api</link>
+    </author><author id="1463128">
+      <name>PaBLoX_CL</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/pablox_cl/?src=api</link>
+    </author><author id="4757633">
+      <name>Mozilla</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/mozilla/?src=api</link>
+    </author>      </authors>
+  <summary>Spanish (Chile) Language pack for Firefox 3.0.x</summary>
+  <description>Spanish (Chile) Language pack, preview version. May contain untranslated strings and/or translation errors.</description><license>
+    <name>MPL 1.1</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64"></icon>
+  <icon size="32"></icon>
+  <compatible_applications></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/spanish-chile-language-pack/?src=api</learnmore><install hash="sha256:2f91364dfb196fa270fb619d9e5902683f2ff076503496a12940e834b0882baa"
+    os="ALL"
+    size="324742">https://addons.mozilla.org/firefox/downloads/file/249534/pack_de_idioma_espanol_chile-27.0.1.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="7">
+      https://addons.mozilla.org/en-US/firefox/addon/spanish-chile-language-pack/reviews/?src=api
+    </reviews>
+    <total_downloads>29386</total_downloads>
+    <weekly_downloads>604</weekly_downloads>
+    <daily_users>29386</daily_users>
+    <created epoch="1221524511">
+      2008-09-16T00:21:51Z
+    </created>
+    <last_updated epoch="1395090218">
+      2014-03-17T21:03:38Z
+    </last_updated>
+    <homepage>http://www.chilemoz.org</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+
+                  <addon id="2108">
+  <name>Stylish</name>
+  <type id="1">Extension</type>
+  <guid>{46551EC9-40F0-4e47-8E18-8E5CF550CFB8}</guid>
+  <slug>stylish</slug>
+  <version>1.4.2</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="9170">
+      <name>Jason Barnabe</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/jason-barnabe/?src=api</link>
+    </author>      </authors>
+  <summary>Restyle the web with Stylish, a user styles manager. Stylish lets you easily install themes and skins for Google, Facebook, YouTube, Orkut, and many, many other sites. You can even customize Firefox and other programs themselves.</summary>
+  <description>User styles are themes for web sites. User styles empower your browsing experience by letting you customize web sites. Take out irrelevant content, change colors, or completely redesign the entire site. You can even use user styles as themes on the interface of Firefox, Thunderbird, and SeaMonkey themselves.
+
+Stylish lets you easily manage user styles. Add, delete, enable, disable, and organize with a few clicks of a mouse, no code to edit, no obscure configuration to find. Stylish&#39;s companion website, &lt;a href=&#34;http://outgoing.mozilla.org/v1/76374e85d2e814e19408c9d3b3617798bf666a44/http%3A//userstyles.org&#34; rel=&#34;nofollow&#34;&gt;userstyles.org&lt;/a&gt;, hosts tens of thousands of user styles made by other Stylish users that you can try.
+
+For you technical types out there, think of it this way: Stylish and &lt;a href=&#34;http://outgoing.mozilla.org/v1/76374e85d2e814e19408c9d3b3617798bf666a44/http%3A//userstyles.org&#34; rel=&#34;nofollow&#34;&gt;userstyles.org&lt;/a&gt; are to CSS as Greasemonkey and &lt;a href=&#34;http://outgoing.mozilla.org/v1/15b9fa0fe1920f09bd1c69eea79f7043cbb8dcb6/http%3A//userscripts.org&#34; rel=&#34;nofollow&#34;&gt;userscripts.org&lt;/a&gt; are to JavaScript.</description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/img/uploads/addon_icons/2/2108-64.png?modified=1390609227</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/img/uploads/addon_icons/2/2108-32.png?modified=1390609227</icon>
+  <compatible_applications><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.1</min_version>
+      <max_version>2.27</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application><application>
+      <name>Firefox for Android</name>
+      <application_id>61</application_id>
+      <min_version>14.0</min_version>
+      <max_version>30.0</max_version>
+      <appID>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</appID>
+    </application><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>4.0</min_version>
+      <max_version>30.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>Thunderbird</name>
+      <application_id>18</application_id>
+      <min_version>5.0</min_version>
+      <max_version>30.0</max_version>
+      <appID>{3550f703-e582-4d05-9a08-453d09bdfdc6}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>Linux</os><os>Darwin</os><os>WINNT</os><os>Android</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="" width="700" height="360">
+        https://addons.cdn.mozilla.net/img/uploads/previews/full/81/81992.png?src=api&amp;modified=1352439540
+      </full>
+      <thumbnail type="" width="200" height="103">
+        https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/81/81992.png?src=api&amp;modified=1352439540
+      </thumbnail><caption>The Stylish manage pane in Firefox Add-ons dialog</caption></preview><preview position="1">
+      <full type="" width="700" height="412">
+        https://addons.cdn.mozilla.net/img/uploads/previews/full/81/81990.png?src=api&amp;modified=1352439540
+      </full>
+      <thumbnail type="" width="200" height="118">
+        https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/81/81990.png?src=api&amp;modified=1352439540
+      </thumbnail><caption>Installing a style</caption></preview><preview position="2">
+      <full type="" width="700" height="379">
+        https://addons.cdn.mozilla.net/img/uploads/previews/full/81/81988.png?src=api&amp;modified=1352439541
+      </full>
+      <thumbnail type="" width="200" height="108">
+        https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/81/81988.png?src=api&amp;modified=1352439541
+      </thumbnail><caption>Editing a style</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/stylish/?src=api</learnmore><install hash="sha256:8bd4097eca8befc49720e5e32b9563ec5de81fe3a5e90d7f52e159ac04dd853a"
+    os="Linux"
+    size="293311">https://addons.mozilla.org/firefox/downloads/file/244128/stylish-1.4.2-sm+an+fx+tb-linux.xpi?src=api</install>
+  <install hash="sha256:8bd4097eca8befc49720e5e32b9563ec5de81fe3a5e90d7f52e159ac04dd853a"
+    os="Darwin"
+    size="293311">https://addons.mozilla.org/firefox/downloads/file/244130/stylish-1.4.2-sm+an+fx+tb-mac.xpi?src=api</install>
+  <install hash="sha256:8bd4097eca8befc49720e5e32b9563ec5de81fe3a5e90d7f52e159ac04dd853a"
+    os="WINNT"
+    size="293311">https://addons.mozilla.org/firefox/downloads/file/244132/stylish-1.4.2-sm+an+fx+tb-windows.xpi?src=api</install>
+  <install hash="sha256:8bd4097eca8befc49720e5e32b9563ec5de81fe3a5e90d7f52e159ac04dd853a"
+    os="Android"
+    size="293311">https://addons.mozilla.org/firefox/downloads/file/244134/stylish-1.4.2-sm+an+fx+tb-android.xpi?src=api</install>
+  <contribution_data>
+      <link>https://addons.mozilla.org/en-US/firefox/addon/stylish/contribute/?src=api</link>
+                <suggested_amount currency="USD" amount="5.00">
+            $5.00
+          </suggested_amount>
+            <meet_developers>
+        https://addons.mozilla.org/en-US/firefox/addon/stylish/developers?src=api
+      </meet_developers>
+    </contribution_data><developer_comments></developer_comments>
+    <reviews num="596">
+      https://addons.mozilla.org/en-US/firefox/addon/stylish/reviews/?src=api
+    </reviews>
+    <total_downloads>25837444</total_downloads>
+    <weekly_downloads>53124</weekly_downloads>
+    <daily_users>713421</daily_users>
+    <created epoch="1140495090">
+      2006-02-21T04:11:30Z
+    </created>
+    <last_updated epoch="1393364300">
+      2014-02-25T21:38:20Z
+    </last_updated>
+    <homepage>http://userstyles.org/</homepage>
+    <support>http://userstyles.org/help/stylish_firefox</support>
+    <featured>1</featured>
+        <performance>
+            <application name="fx" version="8.0.1">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.26" average="491.74"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="548.47" average="541.16"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="637.58" average="645.63"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="6.0.2">
+                <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="476.21" average="489.89"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2">
+          <result type="ts" baseline="654.42" average="658.58"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="7.0.1">
+                <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="547.16" average="555.74"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="479.68" average="503.26"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="667.37" average="673.47"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2">
+          <result type="ts" baseline="671.16" average="702.63"
+                  above_threshold="false" />
+        </platform></application>      <application name="fx" version="8.0">
+                <platform name="MacOSX" version="10.6 (rev4)">
+          <result type="ts" baseline="624.84" average="642.47"
+                  above_threshold="false" />
+        </platform>        <platform name="WINNT" version="6.1">
+          <result type="ts" baseline="541.58" average="552.26"
+                  above_threshold="false" />
+        </platform>        <platform name="Fedora" version="12 - Constantine">
+          <result type="ts" baseline="477.95" average="480.21"
+                  above_threshold="false" />
+        </platform>        <platform name="MacOSX" version="10.6.2 (rev3)">
+          <result type="ts" baseline="657.21" average="647.89"
+                  above_threshold="false" />
+        </platform></application></performance>
+    </addon>
+
+                  <addon id="6180">
+  <name>English (South African) Language Pack</name>
+  <type id="5">Language Pack (Application)</type>
+  <guid>langpack-en-ZA@firefox.mozilla.org</guid>
+  <slug>english-south-african-language</slug>
+  <version>27.0.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="169373">
+      <name>Dwayne Bailey</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/dwayne-bailey/?src=api</link>
+    </author><author id="182568">
+      <name>Translate.org.za</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/translateorgza/?src=api</link>
+    </author><author id="4757633">
+      <name>Mozilla</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/mozilla/?src=api</link>
+    </author>      </authors>
+  <summary>Adds South African English language support to the Firefox browser. All interfaces will be translated into South African English.</summary>
+  <description>Translation of the Firefox user interface into South African English by &lt;a href=&#34;http://outgoing.mozilla.org/v1/ebf7b3ba66c87e5449a05dcf913d243b92346271/http%3A//translate.org.za.&#34;&gt;http://translate.org.za.&lt;/a&gt;
+
+If you find missing translations or incorrect translations then visit &lt;a href=&#34;http://outgoing.mozilla.org/v1/145f17ae8f2887d14fb2ee13dfd3452575bcb599/http%3A//pootle.translate.org.za&#34;&gt;http://pootle.translate.org.za&lt;/a&gt; and please contribute a correction.</description><license>
+    <name>MPL 1.1</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/img/uploads/addon_icons/6/6180-64.png?modified=1358380391</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/img/uploads/addon_icons/6/6180-32.png?modified=1358380391</icon>
+  <compatible_applications></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>0</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/english-south-african-language/?src=api</learnmore><install hash="sha256:8f88033c9ddad2030b3eb1339890e45e674a03198d3dca51af594b682e3b63b8"
+    os="ALL"
+    size="354707">https://addons.mozilla.org/firefox/downloads/file/249524/english_south_african_language_pack-27.0.1.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="0">
+      https://addons.mozilla.org/en-US/firefox/addon/english-south-african-language/reviews/?src=api
+    </reviews>
+    <total_downloads>82006</total_downloads>
+    <weekly_downloads>169</weekly_downloads>
+    <daily_users>82006</daily_users>
+    <created epoch="1197461163">
+      2007-12-12T12:06:03Z
+    </created>
+    <last_updated epoch="1395090207">
+      2014-03-17T21:03:27Z
+    </last_updated>
+    <homepage>http://translate.org.za/content/view/15/31/lang,en/</homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+
+                  <addon id="417256">
+  <name>Chinese Simplified (zh-CN) Language Pack</name>
+  <type id="5">Language Pack (Application)</type>
+  <guid>langpack-zh-CN@firefox.mozilla.org</guid>
+  <slug>chinese-simplified-zh-cn-la</slug>
+  <version>28.0</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4757633">
+      <name>Mozilla</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/mozilla/?src=api</link>
+    </author>      </authors>
+  <summary></summary>
+  <description></description>  <icon size="64"></icon>
+  <icon size="32"></icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>28.0</min_version>
+      <max_version>28.0.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/chinese-simplified-zh-cn-la/?src=api</learnmore><install hash="sha256:94ed161746abb3255d932ec88ed7534474475ba4f1869201a1e9bb1baa42240e"
+    os="ALL"
+    size="404925">https://addons.mozilla.org/firefox/downloads/file/249674/chinese_simplified_zh_cn_language_pack-28.0-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="5">
+      https://addons.mozilla.org/en-US/firefox/addon/chinese-simplified-zh-cn-la/reviews/?src=api
+    </reviews>
+    <total_downloads>27860</total_downloads>
+    <weekly_downloads>338</weekly_downloads>
+    <daily_users>27860</daily_users>
+    <created epoch="1358459587">
+      2013-01-17T21:53:07Z
+    </created>
+    <last_updated epoch="1395090291">
+      2014-03-17T21:04:51Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+
+                  <addon id="8343">
+  <name>Spanish (Mexico) Language Pack</name>
+  <type id="5">Language Pack (Application)</type>
+  <guid>langpack-es-MX@firefox.mozilla.org</guid>
+  <slug>spanish-mexico-language-pack</slug>
+  <version>27.0.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4757633">
+      <name>Mozilla</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/mozilla/?src=api</link>
+    </author>      </authors>
+  <summary>The Mozilla Mexican Community publish the Language Pack in Mexican Spanish (es-MX) for Mozilla Firefox.</summary>
+  <description>If you can&#39;t see any change on the Firefox interface; open a new Tab and type &#34;about:config&#34; then find the &#34;general.useragent.locale&#34; property and change it&#39;s current value for this: &#34;es-MX&#34;, restart Firefox and now you must see the Language Pack in action. Enjoy!</description><license>
+    <name>MPL 1.1</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/img/uploads/addon_icons/8/8343-64.png?modified=1368472825</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/img/uploads/addon_icons/8/8343-32.png?modified=1368472825</icon>
+  <compatible_applications></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="1">
+      <full type="image/png" width="644" height="512">
+        https://addons.cdn.mozilla.net/img/uploads/previews/full/24/24155.png?src=api&amp;modified=1331247702
+      </full>
+      <thumbnail type="image/png" width="188" height="150">
+        https://addons.cdn.mozilla.net/img/uploads/previews/thumbs/24/24155.png?src=api&amp;modified=1331247702
+      </thumbnail></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/spanish-mexico-language-pack/?src=api</learnmore><install hash="sha256:2276c386ef082ae07e20e08f1fdb3fbe0e2c38afd678603cffb462817fa3e63d"
+    os="ALL"
+    size="379049">https://addons.mozilla.org/firefox/downloads/file/249542/espanol_mexico_language_pack-27.0.1.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="98">
+      https://addons.mozilla.org/en-US/firefox/addon/spanish-mexico-language-pack/reviews/?src=api
+    </reviews>
+    <total_downloads>65418</total_downloads>
+    <weekly_downloads>1498</weekly_downloads>
+    <daily_users>65418</daily_users>
+    <created epoch="1217637280">
+      2008-08-02T00:34:40Z
+    </created>
+    <last_updated epoch="1395090222">
+      2014-03-17T21:03:42Z
+    </last_updated>
+    <homepage>http://mozilla-mexico.sf.net</homepage>
+    <support>http://mozilla-mexico.sourceforge.net/foros/viewforum.php?f=13</support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+
+                  <addon id="417168">
+  <name>English (GB) Language Pack</name>
+  <type id="5">Language Pack (Application)</type>
+  <guid>langpack-en-GB@firefox.mozilla.org</guid>
+  <slug>english-gb-language-pack</slug>
+  <version>27.0.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4757633">
+      <name>Mozilla</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/mozilla/?src=api</link>
+    </author>      </authors>
+  <summary></summary>
+  <description></description>  <icon size="64"></icon>
+  <icon size="32"></icon>
+  <compatible_applications></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/english-gb-language-pack/?src=api</learnmore><install hash="sha256:77ab8cb1350918384b3105b373ca44e2064594ae841f701fe07a53d639126add"
+    os="ALL"
+    size="360325">https://addons.mozilla.org/firefox/downloads/file/249522/english_gb_language_pack-27.0.1.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="18">
+      https://addons.mozilla.org/en-US/firefox/addon/english-gb-language-pack/reviews/?src=api
+    </reviews>
+    <total_downloads>234746</total_downloads>
+    <weekly_downloads>4646</weekly_downloads>
+    <daily_users>234746</daily_users>
+    <created epoch="1358459080">
+      2013-01-17T21:44:40Z
+    </created>
+    <last_updated epoch="1395090203">
+      2014-03-17T21:03:23Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+
+                  <addon id="417170">
+  <name>Español (AR) Language Pack</name>
+  <type id="5">Language Pack (Application)</type>
+  <guid>langpack-es-AR@firefox.mozilla.org</guid>
+  <slug>español-ar-language-pack</slug>
+  <version>27.0.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4757633">
+      <name>Mozilla</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/mozilla/?src=api</link>
+    </author>      </authors>
+  <summary></summary>
+  <description></description>  <icon size="64"></icon>
+  <icon size="32"></icon>
+  <compatible_applications></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/espa%C3%B1ol-ar-language-pack/?src=api</learnmore><install hash="sha256:115bc742e0c4b8723c1498938ca41e0b77bba50888a7e7d0b559783a58f43a50"
+    os="ALL"
+    size="377174">https://addons.mozilla.org/firefox/downloads/file/249530/espanol_ar_language_pack-27.0.1.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="2">
+      https://addons.mozilla.org/en-US/firefox/addon/espa%C3%B1ol-ar-language-pack/reviews/?src=api
+    </reviews>
+    <total_downloads>32430</total_downloads>
+    <weekly_downloads>755</weekly_downloads>
+    <daily_users>32430</daily_users>
+    <created epoch="1358459087">
+      2013-01-17T21:44:47Z
+    </created>
+    <last_updated epoch="1395090214">
+      2014-03-17T21:03:34Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+
+                  <addon id="417172">
+  <name>Español (España) Language Pack</name>
+  <type id="5">Language Pack (Application)</type>
+  <guid>langpack-es-ES@firefox.mozilla.org</guid>
+  <slug>español-españa-language-pac</slug>
+  <version>27.0.1</version>
+  <status id="4">Fully Reviewed</status>
+  <authors>
+        <author id="4757633">
+      <name>Mozilla</name>
+      <link>https://addons.mozilla.org/en-US/firefox/user/mozilla/?src=api</link>
+    </author>      </authors>
+  <summary></summary>
+  <description></description>  <icon size="64"></icon>
+  <icon size="32"></icon>
+  <compatible_applications></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-US/firefox/addon/espa%C3%B1ol-espa%C3%B1a-language-pac/?src=api</learnmore><install hash="sha256:137a6eed0c080d057b4bd9c07ab3e6c4f66c97265052700a0fb9f54f6b5d9cca"
+    os="ALL"
+    size="316287">https://addons.mozilla.org/firefox/downloads/file/249538/espanol_espana_language_pack-27.0.1.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="1">
+      https://addons.mozilla.org/en-US/firefox/addon/espa%C3%B1ol-espa%C3%B1a-language-pac/reviews/?src=api
+    </reviews>
+    <total_downloads>91586</total_downloads>
+    <weekly_downloads>2096</weekly_downloads>
+    <daily_users>91586</daily_users>
+    <created epoch="1358459217">
+      2013-01-17T21:46:57Z
+    </created>
+    <last_updated epoch="1395090219">
+      2014-03-17T21:03:39Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+      </performance>
+    </addon>
+
+          </searchresults>
