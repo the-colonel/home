@@ -679,7 +679,7 @@ section .login-overlay {
   cursor: url(../img/grabbing.png) 8 8, move;
 }
 /*
-*   Owl Carousel Owl Demo Theme 
+*   Owl Carousel Owl Demo Theme
 * v1.3.2
 */
 .owl-theme-main .owl-controls .owl-page.active span,
@@ -1622,6 +1622,30 @@ section .overlay-text {
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
   box-shadow: -80px 0px 0 #dadada, 80px 0px 0 #dadada;
+}
+#aboot h2 {
+  background:black;
+  text-align: center;
+  padding: 5px;
+}
+#aboot h4 {
+  background:black;
+  text-align:center;
+  padding: 3px;
+}
+
+#bod h2 {
+  text-align:center;
+  border-radius: 5px;
+}
+#bod p {
+  text-align:center;
+}
+#bod img {
+  display: block;
+  border-radius: 15px;
+  margin-left:auto;
+  margin-right:auto;
 }
 #pricing .plan {
   background: white;
@@ -2672,4 +2696,5 @@ footer.footer .icon {
   .overlay #contactForm input {
     padding: 1.5em 1em;
   }
+
 }
