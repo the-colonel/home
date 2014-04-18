@@ -11,8 +11,8 @@
                    collapsed="false" />
   <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
                    screenY="0"
-                   width="1424"
-                   height="831"
-                   screenX="-127"
+                   screenX="0"
+                   width="1440"
+                   height="850"
                    sizemode="maximized" />
 </RDF:RDF>
