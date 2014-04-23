@@ -9,177 +9,33 @@ Failed to connect to the VirtualBox kernel service
 Failed to connect to the VirtualBox kernel service
 Script for cjkv started at run_im.
 Script for default started at run_im.
-GNOME_KEYRING_CONTROL=/run/user/hab/keyring-81deK1
-GNOME_KEYRING_CONTROL=/run/user/hab/keyring-81deK1
-GNOME_KEYRING_CONTROL=/run/user/hab/keyring-81deK1
-GPG_AGENT_INFO=/run/user/hab/keyring-81deK1/gpg:0:1
-GNOME_KEYRING_CONTROL=/run/user/hab/keyring-81deK1
-GPG_AGENT_INFO=/run/user/hab/keyring-81deK1/gpg:0:1
-SSH_AUTH_SOCK=/run/user/hab/keyring-81deK1/ssh
+GNOME_KEYRING_CONTROL=/run/user/hab/keyring-V8l6Ot
+GNOME_KEYRING_CONTROL=/run/user/hab/keyring-V8l6Ot
+GNOME_KEYRING_CONTROL=/run/user/hab/keyring-V8l6Ot
+GPG_AGENT_INFO=/run/user/hab/keyring-V8l6Ot/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/hab/keyring-V8l6Ot
+GPG_AGENT_INFO=/run/user/hab/keyring-V8l6Ot/gpg:0:1
+SSH_AUTH_SOCK=/run/user/hab/keyring-V8l6Ot/ssh
 
-(gnome-settings-daemon:2969): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+(gnome-settings-daemon:3466): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
 
-(gnome-settings-daemon:2969): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+(gnome-settings-daemon:3466): color-plugin-WARNING **: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
 access control disabled, clients can connect from any host
 ** Message: applet now removed from the notification area
-      JS LOG: About to start Cinnamon** Message: using fallback from indicator to GtkStatusIcon
+** Message: using fallback from indicator to GtkStatusIcon
+      JS LOG: About to start Cinnamon
 
+** (nemo:3516): WARNING **: Can not get _NET_WORKAREA
 
-** (nemo:3015): WARNING **: Can not get _NET_WORKAREA
-
-** (nemo:3015): WARNING **: Can not determine workarea, guessing at layout
-ping: unknown host google.com
+** (nemo:3516): WARNING **: Can not determine workarea, guessing at layout
 Window manager warning: Log level 16: Unable to register authentication agent: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: An authentication agent already exists for the given subject
 Window manager warning: Log level 16: Error registering polkit authentication agent: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: An authentication agent already exists for the given subject (polkit-error-quark 0)
-      JS LOG: Cinnamon started at Thu Apr 17 2014 07:52:22 GMT-0500 (CDT)
+      JS LOG: Cinnamon started at Wed Apr 23 2014 09:42:07 GMT-0500 (CDT)
       JS LOG: network applet: Cannot find connection for active (or connection cannot be read)
 
-(cinnamon:3009): GnomeDesktop-WARNING **: Unable to create an input stream for file:///home/hab/ico/favicon.ico: No such file or directory
-
-(cinnamon:3009): GnomeDesktop-WARNING **: Unable to create an input stream for file:///home/hab/hall.jpg: No such file or directory
+(cinnamon:3510): GnomeDesktop-WARNING **: Unable to create an input stream for file:///home/hab/ico/colonel_meow___wallpaper_by_chronoperates-d5mw23j.jpg: No such file or directory
 ** Message: applet now embedded in the notification area
-Window manager warning: Log level 16: STACK_OP_ADD: window 0x2800001 already in stack
-Window manager warning: Log level 16: STACK_OP_ADD: window 0x2800001 already in stack
 failed to create drawable
+Window manager warning: Log level 16: STACK_OP_ADD: window 0x2a00001 already in stack
+Window manager warning: Log level 16: STACK_OP_ADD: window 0x2a00001 already in stack
       JS LOG: network applet: Found connection for active
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1cc92d0' has no handler with id `12691'
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-Nemo-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permission denied
-You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
-
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GnomeDesktop-WARNING **: Unable to create loader for mime type image/vnd.microsoft.icon: Unrecognized image file format
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-
-(nemo:3015): GLib-GIO-CRITICAL **: g_file_info_get_attribute_uint64: assertion `G_IS_FILE_INFO (info)' failed
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2163b20' has no handler with id `12885'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x21628f0' has no handler with id `14049'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1d98680' has no handler with id `14235'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1ca8400' has no handler with id `14412'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x845a30' has no handler with id `14534'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd6c008680' has no handler with id `14677'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x22ca590' has no handler with id `14824'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2251770' has no handler with id `14935'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd640536d0' has no handler with id `15105'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1d08050' has no handler with id `15200'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2154cf0' has no handler with id `15373'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2163ad0' has no handler with id `15491'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2163e80' has no handler with id `15664'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1d6d6d0' has no handler with id `15782'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2162850' has no handler with id `15952'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1ca8a80' has no handler with id `16047'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2163a30' has no handler with id `16220'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1d98190' has no handler with id `16334'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1d3c190' has no handler with id `16505'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2163940' has no handler with id `16621'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd6c008280' has no handler with id `16796'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1dc4800' has no handler with id `16908'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1d6d770' has no handler with id `17081'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2163990' has no handler with id `17193'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd64053680' has no handler with id `17358'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd7801a680' has no handler with id `17474'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x21639e0' has no handler with id `17645'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd780c12d0' has no handler with id `17761'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x23644f0' has no handler with id `17932'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2163a80' has no handler with id `18048'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1d98320' has no handler with id `18217'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd640534f0' has no handler with id `18329'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1ca8b20' has no handler with id `18498'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd64053770' has no handler with id `18591'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1d982d0' has no handler with id `18766'
-
-** (nm-applet:3018): WARNING **: Could not create object for /org/freedesktop/NetworkManager/IP4Config/20: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/IP4Config/20: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1df6000' has no handler with id `18954'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1df61e0' has no handler with id `19049'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd780c1190' has no handler with id `19161'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1df6140' has no handler with id `19330'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd680139e0' has no handler with id `19446'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2364680' has no handler with id `19619'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x2364630' has no handler with id `19786'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd7801a450' has no handler with id `19906'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1df6280' has no handler with id `20014'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1a99ad0' has no handler with id `20183'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x1df62d0' has no handler with id `20373'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fbd68013b70' has no handler with id `20474'
-Window manager warning: Log level 16: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x28cac50' has no handler with id `20582'

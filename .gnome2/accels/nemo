@@ -134,7 +134,6 @@
 ; (gtk_accel_path "<Actions>/ShellActions/Add Bookmark" "<Primary>d")
 ; (gtk_accel_path "<Actions>/DirViewActions/Save Search As" "")
 ; (gtk_accel_path "<Actions>/IconViewActions/Keep Aligned" "")
-; (gtk_accel_path "<Actions>/DirViewActions/New Launcher" "")
 ; (gtk_accel_path "<Actions>/DirViewActions/Properties" "<Alt>Return")
 ; (gtk_accel_path "<Actions>/ShellActions/Sidebar Tree" "")
 ; (gtk_accel_path "<Actions>/DirViewActions/Copy to Desktop" "")

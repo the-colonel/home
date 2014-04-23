@@ -127,3 +127,61 @@ grep bg-content *
 vi theme.css 
 ls -l
 mv hall.jpg img/
+pwd
+git status
+git fetch
+host github.com
+cat /etc/resolv.conf 
+git fetch
+git status
+vi .gitignore
+git status
+cd Downloads/
+ls
+cd ..
+git status
+git fetch
+git pull
+python -m SimpleHTTPServer
+vi index.html 
+vi index.html 
+git status
+git add .
+git commit -m 'links the application form to the apply buttons.'
+git push
+git push
+git push
+git push
+vi index.html 
+git status
+git add index.html
+git commit -m 'adds link to fight song'
+git push
+git pull
+vi index
+vi index.html 
+python -m SimpleHTTPServer
+git status
+git add index.html
+git commit -m 'adds a number'
+git push
+vi index.html
+vi index.html
+git status
+git add index.html
+git commit -m 'change the name of Ai Wong'
+git push
+git pull
+vi index.html 
+vi index.html 
+git status
+git add index.html
+git commit -m 'link to widup lecture'
+git push
+git pull
+vi index.html 
+vi index.html 
+git status
+git add index.html
+git commit -m 'adds details about the COB fundraiser'
+git push
